@@ -27,7 +27,7 @@
         "default": "https://d1jh0rcszsaxik.cloudfront.net/assset_icons/v3/wavesenterprise.png"
       },
       "assetId": "4LHHvYGNKJUg5hj65aGD5vgScvCBmLpdRFtjokvCjSL8",
-      "displayName": "VST",
+      "displayName": "WE",
       "isFiat": false,
       "isGateway": true,
       "wavesId": "Vostok",
@@ -45,7 +45,7 @@
       "isGateway": true,
       "wavesId": "WBTC",
       "gatewayId": "BTC",
-      "gatewayType": "coinomat",
+      "gatewayType": "gateway",
       "addressRegEx": "^[13][a-km-zA-HJ-NP-Z1-9]{25,34}|(bc1)[a-z0-9]{25,90}"
     },
     {
