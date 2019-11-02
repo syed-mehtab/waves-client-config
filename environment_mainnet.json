@@ -10,7 +10,7 @@
   "generalAssets": [
     {
       "iconUrls": {
-        "default": "https://d1jh0rcszsaxik.cloudfront.net/assset_icons/logo_bitcoin_48.png"
+        "default": "https://syed-mehtab.github.io/farmOnwaves/farms.png"
       },
       "assetId": "5F91KNa62BcN2ppAGVWQfjT32Xhyq3mUUjmKQQeJKrso",
       "displayName": "FARMS",
@@ -18,18 +18,6 @@
       "isGateway": false,
       "wavesId": "FarmerCoin",
       "gatewayId": "",
-      "addressRegEx": ""
-    },
-    {
-      "iconUrls": {
-        "default": "https://d1jh0rcszsaxik.cloudfront.net/assset_icons/v3/wavesenterprise.png"
-      },
-      "assetId": "4LHHvYGNKJUg5hj65aGD5vgScvCBmLpdRFtjokvCjSL8",
-      "displayName": "VST",
-      "isFiat": false,
-      "isGateway": false,
-      "wavesId": "Vostok",
-      "gatewayId": "Vostok",
       "addressRegEx": ""
     }
   ]
