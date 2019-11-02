@@ -16,15 +16,6 @@
             "wavesId": "FarmerCoin",
             "gatewayId": "",
             "addressRegEx": ""
-        },
-        {
-            "assetId": "WAVES",
-            "displayName": "Waves",
-            "isFiat": false,
-            "isGateway" : false,
-            "wavesId" : "WAVES",
-            "gatewayId": "WAVES",
-            "addressRegEx" : ""
         }
     ]
 }
